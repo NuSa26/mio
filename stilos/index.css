@@ -1,0 +1,18 @@
+.cabeza{
+    background-color: #def7ff;
+}
+.banner{
+    width: 80rem;
+    height: 25rem;
+    padding: 2rem;
+}
+
+.cuerpo{
+    background: linear-gradient(#def7ff, #bceeff);
+}
+.copyright{
+    color: black;
+}
+.copy{
+    background-color: #bceeff;
+}
